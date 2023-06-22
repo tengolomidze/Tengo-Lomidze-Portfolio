@@ -1,0 +1,32 @@
+[
+    {
+        "img": "https://password-generator-by-tengo.netlify.app/icon.png",
+        "link": "https://password-generator-by-tengo.netlify.app/",
+        "name": "Password Generator",
+        "description": "This is simple password generator (frontendmentor's challange). Made using react.js tailwindcss"
+    },
+    {
+        "img": "/ttt.webp",
+        "link": "https://tic-tac-toe-by-tengo.netlify.app/",
+        "name": "Tic-Tac-Toe",
+        "description": "I made this fun game using react.js and tailwndcss"
+    },
+    {
+        "img": "/canvas.webp",
+        "link": "https://canvas-by-tengo.netlify.app",
+        "name": "Canvas",
+        "description": "Here u can draw many shapes with different colors. Made using Vanila JavaScript"
+    },
+    {
+        "img": "/particles.png",
+        "link": "https://canvas-particles-by-tengo.netlify.app/",
+        "name": "Moving Particles",
+        "description": "On mouse move beautifull particles will generate. Made using Vanila JavaScript"
+    },
+    {
+        "img": "/distance.png",
+        "link": "https://distancetraveled.netlify.app",
+        "name": "Distance Traveled",
+        "description": "School project.  Made using Vanila JavaScript"
+    }
+]
